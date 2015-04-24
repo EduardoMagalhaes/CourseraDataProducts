@@ -7,7 +7,7 @@ This project aims to explore the correlation between Gold Companies Stock prices
 
 Please notice the first time the app runs it will gather external data, which may take a little while.
 
-You can check the running Shiny app here
+You can check the running Shiny app here!
 
 https://eduardomagalhaes.shinyapps.io/GoldStockPrices/
 
